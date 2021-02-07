@@ -1,41 +1,28 @@
 # Introduction to jQuery
 
-### A learning example to introduce jQuery.
+### _This project was created solely for the education of the author(s) and is not in a complete or portfolio-ready state. It should not be considered representative of professional work._
+\
+[Epicodus](https://www.epicodus.com/) - [Introduction to Programming](https://www.learnhowtoprogram.com/introduction-to-programming) - [Week 2, Lesson 30](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/introduction-to-jquery)
+\
+Date created: 2021-01-12
 
-### _By Micah Olson_
-
-## Technologies Used
-* JavaScript
-* HTML
-* CSS
+## Authors and Contributors
+Authored by: Micah Olson  
 
 ## Description
-This site was an example in an Epicodus tutorial introducing and demonstrating jQuery.
+_JavaScript and jQuery / Introduction to jQuery_  
+This lesson introduces the **jQuery** library, **event handlers**, **anonymous callback functions**, and the jQuery `.ready()` method.  
 
-## Setup/Installation Requirements
-* To edit play with a local copy yourself, follow the instructions below:  
-
-* Use git to clone the project to your local directory of choice ([how to install git](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-and-github)):  
-  $ cd ~/\[directory-of-choice\]  
-  $ git clone https[]()://github.com/MicahOlson/intro-to-jquery.git  
-
-* Remove all remotes nicknamed 'origin' pointing to my repository:  
-  To view-  
-  $ git remote -v  
-
-  To remove-  
-  $ git remote rm origin  
-* Add new remotes pointing to your repositories of choice:  
-  $ git remote add \[location-nickname\] \[location\]  
-
-* Open the files in your editor of choice and have fun!
-
-## Known Bugs
-* No known bugs.
-* This project will be under regular development. 
+## Technologies Used
+* HTML
+* CSS
+* Bootstrap 4.5.3
+* JavaScript
+* jQuery 3.5.1
 
 ## License
-[GPL](https://choosealicense.com/licenses/gpl-3.0/)
+[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)\
+Copyright &copy; 2021 Micah L. Olson
 
-## Contact Information
-Micah L. Olson micah@fakemail.com
+## Contact
+Micah Olson micah.olson@protonmail.com
